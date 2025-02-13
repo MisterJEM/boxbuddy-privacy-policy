@@ -9,6 +9,7 @@ The privacy policy outlines how BoxBuddy handles user data, permissions, and thi
 ## Contents
 
 - [Privacy Policy](privacy_policy.md) - The full privacy policy document
+- [Live Privacy Policy](https://misterjEM.github.io/boxbuddy-privacy-policy/privacy_policy) - Online version
 - Last Updated: February 12, 2024
 
 ## Contact
